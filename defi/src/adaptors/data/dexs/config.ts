@@ -2929,5 +2929,14 @@ export default {
     },
     "haedal": {
         id: "5784"
-    }
+    },
+    "hardswap": {
+        id: "5999"
+    },
+    "momentum": {
+        id: "6005"
+    },
+    "jup-ape": {
+        id: "4860"
+    },
 } as AdaptorsConfig

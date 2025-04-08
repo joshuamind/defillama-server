@@ -2414,6 +2414,7 @@ export default {
         id: "5742"
     },
     "polymarket": {
+        enabled: false, // fees value is wrong
         id: "711"
     },
     "velar": {
@@ -2986,5 +2987,23 @@ export default {
     },
     "euler": { // euler v2
         id: "5044"
-    }
+    },
+    "hardswap": {
+        id: "5999"
+    },
+    "spark": {
+        id: "2929"
+    },
+    "hypurrfi": {
+        id: "5838"
+    },
+    "stakestone-stone": {
+        id: "3558"
+    },
+    "resupply": {
+        id: "5963"
+    },
+    "momentum": {
+        id: "6005"
+    },
 } as AdaptorsConfig
